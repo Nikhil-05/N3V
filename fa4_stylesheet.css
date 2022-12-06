@@ -1,0 +1,25 @@
+body{
+			background-color: grey;
+		
+
+			
+
+		}
+
+.headerlist{
+	display: inline;
+	color:red;
+}
+.headerlist:hover{
+	background-color: black;
+}
+.headingbuttons{
+	color:red;
+}
+#first{
+	color:red;
+}
+#ab{
+	text-align: left;
+	font-size: 30px;
+}
